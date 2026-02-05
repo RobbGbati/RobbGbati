@@ -1,5 +1,5 @@
 # 💫 About Me:
-Honnête, sérieux, apprentissage rapide, bonne capacité d’analyse et de travail en équipe,<br>motivé pour la concrétisation de solutions innovantes.<br>
+Esprit d' apprentissage rapide, bonne capacité d’analyse et de travail en équipe,<br>motivé pour la concrétisation de solutions innovantes.<br>
 
 - 🔭 Je suis actuellement entrain de tester des idées de SaaS avec la partie front faite en Angular.
 - 🌱 J'utilise déjà l'IA dans mes tâches quotidiennes en développement. Toutefois, je suis en apprentissage pour une meilleur utilisation et intégration de l'IA dans les app web
@@ -28,7 +28,7 @@ Honnête, sérieux, apprentissage rapide, bonne capacité d’analyse et de trav
 [![](https://visitcount.itsvg.in/api?id=robbgbati&icon=4&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RobbileKONDI-MANE) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/robbilekondimane) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
